@@ -1,2 +1,2 @@
 # Yoruba Automatic Speech Recognition (ASR)
-This repository contains 132 minutes of diacritized Yoruba read speech. The corpus which contains 1001 sentences was sourced from https://github.com/Niger-Volta-LTI/yoruba-text
+This repository contains data and code for the 2020 African Masters in Machine Intelligence (AMMI) Speech Recognition Course. It contains 132 minutes of diacritized Yoruba read speech. The corpus which contains 1001 sentences was sourced from https://github.com/Niger-Volta-LTI/yoruba-text. The repository relies heavily on https://github.com/facebookresearch/CPC_audio for model training.
